@@ -1,0 +1,12 @@
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/bin/Debug/netcoreapp3.1/Unit1.deps.json
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/bin/Debug/netcoreapp3.1/Unit1.runtimeconfig.json
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/bin/Debug/netcoreapp3.1/Unit1.runtimeconfig.dev.json
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/bin/Debug/netcoreapp3.1/Unit1.dll
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/bin/Debug/netcoreapp3.1/Unit1.pdb
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.csprojAssemblyReference.cache
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.AssemblyInfoInputs.cache
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.AssemblyInfo.cs
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.csproj.CoreCompileInputs.cache
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.dll
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.pdb
+/Users/xaviergreer/Projects/CSharp/Unit1/Unit1/obj/Debug/netcoreapp3.1/Unit1.genruntimeconfig.cache
